@@ -12,3 +12,5 @@ GraphicsGale (for sprite editing)
 3. Make your changes
 4. Open up Visual Studio and open the reg_RPG folder
 5. Go to source control and submit it to this repo
+
+Design doc: https://docs.google.com/document/d/1R1xofqvW90ZxGBpFMd08AHDHS0uttwdhHJI0IjE6Ork/edit
