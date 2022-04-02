@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"A poorly made dumpster fire. However, does confer a +10\nDEF benefit. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Yiik","note":"","params":[0,0,0,10,0,0,0,0],"price":10},
+{"id":2,"atypeId":1,"description":"A cult classic which gives a 35 DEF boost. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"LISA","note":"","params":[0,0,0,35,0,0,0,0],"price":30},
+{"id":3,"atypeId":1,"description":"Something something Sans. Gives 60 DEF. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Undertale","note":"","params":[0,0,0,60,0,0,0,0],"price":75},
+{"id":4,"atypeId":1,"description":"The one that started it all. Gives 120 DEF. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Earthbound","note":"","params":[0,0,0,120,10,0,0,0],"price":300},
+{"id":5,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":26,"name":"test_armor","note":"","params":[0,0,500,500,0,0,0,0],"price":0},
+{"id":6,"atypeId":1,"description":"A strange armor given to you by two rednecks. Gives\n80 DEF and resistance to Poison.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":4,"value":1}],"iconIndex":138,"name":"Sneed's Feed","note":"","params":[0,0,0,80,0,0,0,0],"price":450},
+{"id":7,"atypeId":1,"description":"A strange armor given to you by two rednecks. Gives\n80 DEF and resistance to Sleep.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":10,"value":1}],"iconIndex":138,"name":"Chuck's Fuck","note":"","params":[0,0,0,80,0,0,0,0],"price":450},
+{"id":8,"atypeId":1,"description":"An easy way to get into season. Grants 20 ATK and DEF.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Santa Hat","note":"","params":[0,0,20,20,0,0,0,0],"price":0}
+]
